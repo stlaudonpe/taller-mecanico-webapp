@@ -26,3 +26,4 @@ Tecnologías y Herramientas Utilizadas
 
 ## Integrantes
 *   Luis Audón ID 141859
+12/06/2026
